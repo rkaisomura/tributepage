@@ -1,3 +1,3 @@
-# tributepage
-Tribute page - exercise the course: Responsive Web Design from freeCodeCamp.
-Marie
+# Tribute Page
+Html page - exercise from the course: Responsive Web Design
+(freeCodeCamp)
